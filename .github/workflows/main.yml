@@ -2,16 +2,18 @@ name: Actualizar Lenguajes Perfil
 
 on:
   schedule:
-    # Se ejecuta automáticamente todos los días a la medianoche
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Permite activarlo manualmente cuando quieras
+    - cron: '0 0 * * *' # Se ejecuta cada medianoche
+  workflow_dispatch: # Permite darle Play manual
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v3
+      
+      - name: Generar Gráfico de Lenguajes Nativos
+        uses: teoxoy/profile-readme-stats@v2
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: false
-          SECTION_NAME: waka
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Esto buscará tus marcas en el README para meter el gráfico
+          readme_path: README.md
