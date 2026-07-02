@@ -22,9 +22,6 @@ Soy un estudiante aficionado apasionado por el **Desarrollo de Software**, la **
 ---
 
 ## 📈 Mis Estadísticas de GitHub
-### 🔤 Lenguajes más Usados y Métricas de Actividad
-![Métricas de ELIDAN17](https://metrics.lecoq.io/ELIDAN17?plugins.languages=yes&plugins.languages.sections=most-used&plugins.languages.details=percentage&config.timezone=America/Lima)
-
 ### 🔤 Lenguajes más Usados (Actualizado Automáticamente)
 
 ---
