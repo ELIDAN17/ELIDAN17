@@ -6,7 +6,7 @@ Soy un estudiante aficionado apasionado por el **Desarrollo de Software**, la **
 
 ## 🎮 Lo que estoy haciendo actualmente
 * **Desarrollo de Videojuegos:** Explorando motores, scripts (GDScript) y herramientas de bajo nivel para entender el rendimiento y funcionamiento gráfico.
-* **Códigos de Consola Clásicos (CPP 1.0):** Creando programas en C++ y Python enfocados en lógica pura de consola. Son bases sólidas y ejercicios esenciales de programación (sumatorias, matrices, permutaciones, interpolación, ordenamiento, árboles y más).
+* **Códigos de Consola Clásicos [CPP1.0](https://github.com/ELIDAN17/CPP1.0/tree/main):** Creando programas en C++ y Python enfocados en lógica pura de consola. Son bases sólidas y ejercicios esenciales de programación (sumatorias, matrices, permutaciones, interpolación, ordenamiento, árboles y más).
 * **Simuladores de Lógica:** Desarrollando herramientas en Python para simular y visualizar el comportamiento de métodos/algoritmos complejos de Sistemas Operativos y Ciencias de la Computación (Planificación como FCFS y SPN, gestión de memoria como Primer Ajuste/Mejor Ajuste, ordenamientos como Merge, Shell, Quicksort, entre otros algoritmos).
 
 ## 🧰 Mis Herramientas y Tecnologías
@@ -22,14 +22,10 @@ Soy un estudiante aficionado apasionado por el **Desarrollo de Software**, la **
 ---
 
 ## 📈 Mis Estadísticas de GitHub
+### 🔤 Lenguajes más Usados y Métricas de Actividad
+![Métricas de ELIDAN17](https://metrics.lecoq.io/ELIDAN17?plugins.languages=yes&plugins.languages.sections=most-used&plugins.languages.details=percentage&config.timezone=America/Lima)
 
-¡Aquí puedes ver los lenguajes que más utilizo en mis proyectos y mi racha de trabajo!
-
-### 🔤 Lenguajes más Usados
-![Lenguajes de ELIDAN17](https://github-readme-stats.vercel.app/api/top-langs/?username=ELIDAN17&theme=radical&layout=compact&cache_seconds=1800)
-
-### 🔥 Racha de Commits (Actualizada)
-![Racha de ELIDAN17](https://github-readme-streak-stats.herokuapp.com?user=ELIDAN17&theme=radical&cache_seconds=1800)
+### 🔤 Lenguajes más Usados (Actualizado Automáticamente)
 
 ---
 
