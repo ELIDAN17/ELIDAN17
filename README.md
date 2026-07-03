@@ -1,4 +1,5 @@
-![Encabezado Ely_Johan](https://media.istockphoto.com/id/1342037882/es/vector/fondo-del-videojuego-glowing-arrow.jpg?s=612x612&w=0&k=20&c=97GCdYUro9dIXwqGp2RW3QUBVsVaXeu54Ll80Wh9SbY=)
+![Encabezado Ely_Johan](https://static.vecteezy.com/system/resources/thumbnails/016/265/737/small/teen-girl-room-on-attic-interior-with-gamer-stuff-free-vector.jpg)
+
 # ¡Hola! Soy Ely_Johan 🚀 (ELIDAN17)
 
 Soy un estudiante aficionado apasionado por el **Desarrollo de Software**, la **Creación de Videojuegos** y la personalización de entornos. Me encanta entender cómo interactúa el código con el sistema, desde la lógica de un script en un lenguaje hasta la construcción de mis propios prototipos y herramientas vivas.
